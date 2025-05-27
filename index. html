@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Beranda - Website IPA</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Selamat Datang di Website IPA & Umum</h1>
+  <p>Silakan tekan "Mulai" untuk lanjut atau "Keluar" untuk menutup.</p>
+  <button onclick="location.href='mapel.html'">Mulai</button>
+  <button onclick="window.close()">Keluar</button>
+</body>
+</html>
