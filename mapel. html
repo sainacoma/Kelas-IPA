@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pilih Mata Pelajaran</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Pilih Mata Pelajaran</h1>
+  <ul>
+    <li><a href="soal.html?mapel=matematika">Matematika</a></li>
+    <li><a href="soal.html?mapel=fisika">Fisika</a></li>
+    <li><a href="soal.html?mapel=biologi">Biologi</a></li>
+    <li><a href="soal.html?mapel=kimia">Kimia</a></li>
+    <li><a href="soal.html?mapel=bahasa-inggris">Bahasa Inggris</a></li>
+    <li><a href="soal.html?mapel=bahasa-indonesia">Bahasa Indonesia</a></li>
+    <li><a href="soal.html?mapel=agama-islam">Agama Islam</a></li>
+    <li><a href="soal.html?mapel=pkwu">PKWU</a></li>
+    <li><a href="soal.html?mapel=senida">Seni dan Budaya</a></li>
+    <li><a href="soal.html?mapel=pjok">PJOK</a></li>
+    <li><a href="soal.html?mapel=pkn">PKN</a></li>
+    <li><a href="soal.html?mapel=sejarah">Sejarah</a></li>
+    <li><a href="soal.html?mapel=ekonomi">Ekonomi</a></li>
+  </ul>
+</body>
+</html>
